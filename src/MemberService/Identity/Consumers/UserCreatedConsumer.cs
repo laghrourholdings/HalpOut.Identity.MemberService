@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using CommonLibrary.AspNetCore.Identity;
-using CommonLibrary.AspNetCore.Logging;
 using CommonLibrary.Core;
 using MassTransit;
 
